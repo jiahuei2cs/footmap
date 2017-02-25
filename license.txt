@@ -1,1 +1,2 @@
 primeton eos 7.5 license
+esb6.5.1 studio

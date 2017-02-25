@@ -7,3 +7,4 @@ git add . 将当前目录所有文件增加到git管理
 git commit -m "我今天提交了第一个git文件" 增加注释
 git status 查看当前git库中的变化状态，能看到所有受管理的文件变化列表
 git diff liudong.txt 能看看具体修改了什么内容
+xiexie

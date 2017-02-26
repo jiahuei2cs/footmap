@@ -1,3 +1,0 @@
-primeton eos 7.5 license
-hello aha
-esb6.5.1 studio
